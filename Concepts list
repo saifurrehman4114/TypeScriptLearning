@@ -1,0 +1,16 @@
+Type Script Compiler to JS browser and NoDE Js doesnot execute .
+
+TypeScript to JS WorkArounds types are also added 
+It has also have next generartion features which copiled down for older broswer
+Interfaces and Generics
+Decorators
+
+Explict code 
+
+! element it will not return Null and HTMLInputElement
+
+function add(number1 :number, number2: number){
+
+return number1 + number2; 
+}
+
